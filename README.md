@@ -1,1 +1,3 @@
 # ProjectDemocracy
+India is a democracy.
+America is a democracy.
